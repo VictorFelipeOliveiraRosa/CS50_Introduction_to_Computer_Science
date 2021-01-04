@@ -1,0 +1,1 @@
+SELECT COUNT("movies_id") FROM "ratings" WHERE "rating" = 10;
